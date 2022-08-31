@@ -1,0 +1,17 @@
+{
+  "name": "cloudinaryUpload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Khalifa Muyideen",
+  "dependencies": {
+    "cloudinary": "^1.30.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "multer": "^1.4.4",
+    "sqlite3": "^5.0.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
